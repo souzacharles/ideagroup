@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inflação | Wowchemy Research Group</title>
+    <title>Inflação | IDEA</title>
     <link>/tag/inflacao/</link>
       <atom:link href="/tag/inflacao/index.xml" rel="self" type="application/rss+xml" />
     <description>Inflação</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Inflação</title>
@@ -88,7 +88,6 @@ Figura 1: Número Índice, variação mensal e variação anual da inflação �
     % \caption{Número Índice, variação mensal e variação anual da inflação --- 2010--2021}
 \end{figure}
 ---&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Quando se diz, por exemplo, que um índice como o Índice Nacional de Preços ao Consumidor Amplo (IPCA) — índice oficial do Brasil — teve uma variação mensal de 2% no mês de agosto, isto significa que
 a &lt;span style=&#34;     color: #5d8aa8 !important;&#34;&gt;&lt;strong&gt;média ponderada&lt;/strong&gt;&lt;/span&gt; dos preços que compõem o índice em referência sofreu um aumento de 2% em relação ao mês anterior, isto é, em relação a julho.&lt;/p&gt;
 &lt;p&gt;Se a variação do salário, em determinado período, for menor que o IPCA, haverá, em média, perda do poder de compra. Se a inflação e o salário têm a mesma variação, mantém-se o poder de compra. Todavia, um aumento salarial for acima do referido índice, o poder de compra aumentará.&lt;/p&gt;
@@ -97,7 +96,6 @@ a &lt;span style=&#34;     color: #5d8aa8 !important;&#34;&gt;&lt;strong&gt;méd
 &lt;h1&gt;Índices de preços&lt;/h1&gt;
 &lt;p&gt;Texto de referência Vasconcellos e Garcia &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Vasconcellos2018&#34; role=&#34;doc-biblioref&#34;&gt;2018, p. 198–203&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;A inflação é mensurada através de índices que ponderam os bens e serviços mais importantes para uma população e medem o crescimento dos preços. Posto de outro modo, os índices de preços são “números que agregam e representam os preços de determinada cesta de produtos. Sua variação mede, portanto, a variação média dos preços dos produtos dessa cesta. Podem se referir, por exemplo, a preços ao consumidor, preços ao produtor, custos de produção ou preços de exportação e importação. Os índices mais difundidos são os índices de preços ao consumidor, que medem a variação do custo de vida de segmentos da população (taxa de inflação ou de deflação)” (BCB, 2016).&lt;/p&gt;
-&lt;br&gt;
 
 &lt;div class=&#34;lemma&#34;&gt;
 &lt;span id=&#34;lem:unnamed-chunk-3&#34; class=&#34;lemma&#34;&gt;&lt;strong&gt;Nota 1  (Número-índice)  &lt;/strong&gt;&lt;/span&gt;
@@ -150,7 +148,6 @@ Figura 4: Variação percentual dos principais índices da FGV — 2010–2021
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;A Figura &lt;a href=&#34;#fig:ipcaigpm&#34;&gt;5&lt;/a&gt; mostra a taxa de varição anual do IGP-M e do IPCA entre 2010 e início de 2021.&lt;/p&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:ipcaigpm&#34;&gt;&lt;/span&gt;
 &lt;img src=&#34;figure/ipcaigpm-1.png&#34; alt=&#34;IPCA $vs$ IGP-M&#34; width=&#34;864&#34; /&gt;
@@ -337,7 +334,6 @@ A este fenômeno, de reajuste em função da inflação do período anterior, d�
 Um dos motivos que leva uma família a tomar essa decisão é como ela será remunerada por isso. Ou seja, a remuneração da poupança está associada a formação da taxa de juros nos mercados financeiros, quando a taxa de juros se eleva as famílias têm mais incentivos para reduzir o consumo presente e aumentar a sua poupança.&lt;/p&gt;
 &lt;p&gt;Já o empresário quando decide investir, considera o valor corrente do investimento, sua expectativa de retorno e o &lt;span style=&#34;     color: #5d8aa8 !important;&#34;&gt;&lt;strong&gt;custo de oportunidade&lt;/strong&gt;&lt;/span&gt; do investimento.
 O empresário precisa mensurar, de alguma maneira, qual é o retorno que esse investimento pode lhe oferecer. Se a taxa de juros for maior que o retorno esperado do &lt;span style=&#34;     color: #5d8aa8 !important;&#34;&gt;&lt;strong&gt;investimento produtivo&lt;/strong&gt;&lt;/span&gt;, o empresário não terá incentivo para fazê-lo. Por dois motivos principais, taxas de juros elevadas encarecem o crédito no mercado, ou seja, o empréstimo para o investimento produtivo fica mais caro. O segundo motivo é que a taxa de juros elevada incentiva o investimento no mercado financeiro.&lt;/p&gt;
-&lt;br&gt;
 
 &lt;div class=&#34;lemma&#34;&gt;
 &lt;span id=&#34;lem:unnamed-chunk-17&#34; class=&#34;lemma&#34;&gt;&lt;strong&gt;Nota 2  (Custo de oportunidade)  &lt;/strong&gt;&lt;/span&gt;
@@ -353,10 +349,8 @@ quando a decisão para as possibilidades de utilização de A exclui a escolha d
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;referências&#34; class=&#34;section level1 unnumbered&#34;&gt;
-&lt;h1&gt;Referências&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;
+# Referências&lt;/p&gt;
 &lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body&#34; entry-spacing=&#34;1&#34;&gt;
 &lt;div id=&#34;ref-Lopes2018&#34; class=&#34;csl-entry&#34;&gt;
 LOPES, Luiz Martins; BRAGA, Márcio Bobik; VASCONCELLOS, Marco Antonio Sandoval de; TONETO, Rudinei, Junior. &lt;strong&gt;Macroeconomia: &lt;span&gt;Teoria e Aplicações de Política Econômica&lt;/span&gt;&lt;/strong&gt;. 4. ed. São Paulo: Atlas, 2018.
@@ -375,6 +369,7 @@ SIDRA. &lt;strong&gt;Sistema IBGE de Recupera&lt;span&gt;ç&lt;/span&gt;ão Auto
 &lt;/div&gt;
 &lt;div id=&#34;ref-Vasconcellos2018&#34; class=&#34;csl-entry&#34;&gt;
 VASCONCELLOS, Marco Antonio Sandoval; GARCIA, Manuel Enriquez. &lt;strong&gt;Fundamentos de &lt;span&gt;Economia&lt;/span&gt;&lt;/strong&gt;. 6. ed. S&lt;span&gt;ã&lt;/span&gt;o Paulo: Saraiva, 2018. p. 368
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
