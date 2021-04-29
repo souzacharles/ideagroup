@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Events | IDEA</title>
+    <title>Eventos recentes e futuros | IDEA</title>
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Events</description>
+    <description>Eventos recentes e futuros</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Events</title>
+      <url>/images/icon_huf08263858b5ff4e6c3d8480bf5990291_33266_512x512_fill_lanczos_center_2.png</url>
+      <title>Eventos recentes e futuros</title>
       <link>/event/</link>
     </image>
     
     <item>
-      <title>Example Event</title>
+      <title>Exemplo de Evento</title>
       <link>/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>/event/example/</guid>
